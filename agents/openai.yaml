@@ -1,0 +1,4 @@
+interface:
+  display_name: "CAES Paper Evaluator"
+  short_description: "Audit CAES papers from code and results."
+  default_prompt: "Use this skill to evaluate the current CAES/AA-CAES/TCES project for paper readiness, missing analyses, figure quality, and manuscript writing structure."
